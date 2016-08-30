@@ -1,4 +1,3 @@
-layout_spectrum: 0.04409485147334635
 typography_spectrum: 0.9334653716068715
 color:
   brandStrength: 0.2313878054264933
@@ -11,4 +10,6 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.04409485147334635
 name: VanHaus
+description: community
