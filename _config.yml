@@ -1,3 +1,4 @@
+layout_spectrum: 0.04409485147334635
 typography_spectrum: 0.9334653716068715
 color:
   brandStrength: 0.2313878054264933
@@ -5,12 +6,9 @@ color:
   saturation: 0.3901449020486325
   rhythmicContrast: 0.19677117303945124
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-layout_spectrum: 0.04409485147334635
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: VanHaus
-title: '"Home is what unites us."'
-description: community
